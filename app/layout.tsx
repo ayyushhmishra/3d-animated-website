@@ -7,7 +7,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'PW App',
   description: 'Created by Ayush',
-  generator: 'v0.app',
+  generator: 'ayush',
 }
 
 export default function RootLayout({
